@@ -1,3 +1,3 @@
-git+https://github.com/elastic/eland
-pandas
-numpy
+eland[pytorch]
+jupyter
+rich

@@ -1,8 +1,8 @@
-# Eland Elastic{ON} Demo
+# Eland PyCon 2022 Demo
 
-👉 [View this Jupyter Notebook live in your browser!](https://mybinder.org/v2/gh/sethmlarson/eland-binder-demo/master?filepath=Eland%20Elastic{ON}%20Demo.ipynb)
+👉 [View this Jupyter Notebook live in your browser!](https://mybinder.org/v2/gh/sethmlarson/eland-binder-demo/master?filepath=notebook.ipynb)
 
-👋 Welcome to the Elastic{ON} Demo of Eland!
+👋 Welcome to the PyCon 2022 Demo of Eland!
 
 The Elasticsearch cluster being used for this demo is [hosted on Elastic Cloud](https://cloud.elastic.co)
 and this Jupyter Notebook is [hosted by Binder](https://mybinder.org). The Elasticsearch cluster is configured to be read-only. 
@@ -11,8 +11,8 @@ and this Jupyter Notebook is [hosted by Binder](https://mybinder.org). The Elast
 
 - [Eland Documentation (eland.readthedocs.io)](https://eland.readthedocs.io)
 - [Eland Source Code](https://github.com/elastic/eland)
-- Dataset: [NYC OpenData Restaurant Inspection Results](https://data.cityofnewyork.us/Health/DOHMH-New-York-City-Restaurant-Inspection-Results/43nn-pn8j)
-- [Eland Demo Source Code](https://github.com/sethmlarson/eland-binder-demo)
+- Dataset: [Tweets indexed by Tweepy](https://www.tweepy.org)
+- [Eland Demo Source Code](https://github.com/sethmlarson/eland-demo-pycon2022)
 
 ## Installing
 
