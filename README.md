@@ -1,6 +1,6 @@
 # Eland PyCon 2022 Demo
 
-👉 [View this Jupyter Notebook live in your browser!](https://mybinder.org/v2/gh/sethmlarson/eland-binder-demo/master?filepath=notebook.ipynb)
+👉 [View this Jupyter Notebook live in your browser!](https://mybinder.org/v2/gh/sethmlarson/eland-demo-pycon2022/master?labpath=notebook.ipynb)
 
 👋 Welcome to the PyCon 2022 Demo of Eland!
 
