@@ -73,16 +73,6 @@ ipykernel==6.13.0
     #   jupyter-console
     #   notebook
     #   qtconsole
-ipython==8.2.0
-    # via
-    #   ipykernel
-    #   ipywidgets
-    #   jupyter-console
-ipython-genutils==0.2.0
-    # via
-    #   ipywidgets
-    #   notebook
-    #   qtconsole
 ipywidgets==7.7.0
     # via jupyter
 jedi==0.18.1
